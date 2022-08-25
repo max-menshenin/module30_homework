@@ -1,0 +1,6 @@
+.DS_Store
+.idea
+uploads/*
+!uploads/.gitkeep
+!uploads/test.jpg
+.vscode
